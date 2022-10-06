@@ -1,4 +1,4 @@
-# Testing
+# README.md Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,15 +14,15 @@
 
 ## Description
 
-Testing
+This site uses an algorithm that generates a professional README.md
 
 ## Installation
 
-Testing
+Clone the Repo from the Github below
 
 ## Usage
 
-Testing
+Run “node index.js” in the terminal when you cd into the README-GENERATOR file
 
 ## License Details
 
@@ -30,9 +30,9 @@ The MIT License is a free software license that was created at the Massachusetts
 
 ## Contributors
 
-Kip
-Nerp
 Beep
+Nerp
+Kip
 
 ## Tests
 

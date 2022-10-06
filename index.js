@@ -17,12 +17,13 @@ const questions = [
       }
     },
   },
+  /*
   {
     type: "confirm",
     name: "confirm",
     message: "Allow users to report issues/errors",
     default: false,
-  },
+  },*/
   {
     type: "input",
     name: "contributors",
@@ -375,9 +376,12 @@ async function values(userRes) {
           return;
         }
         console.log("Tests Added");
+        /*
         if (userRes.confirm == true) {
           contactInfo();
         }
+        */
+        contactInfo();
       }
     );
   }
