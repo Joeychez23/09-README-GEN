@@ -1,8 +1,8 @@
-# README.md Generator
+# README.md Generator  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Table of Contents:
+  
+ ## Table of Contents:
 
 [1. Description](#Description)  
 [2. Installation](#Installation)  
@@ -10,19 +10,19 @@
 [4. License Details](#License-Details)  
 [5. Contributors](#Contributors)  
 [6. Tests](#Tests)  
-[7. Questions](#Questions)
+[7. Questions](#Questions)  
 
 ## Description
 
-This site uses an algorithm that generates a professional README.md
+This site uses an algorithm that generates a professional README.md  
 
 ## Installation
 
-Clone the Repo from the Github below
+Clone the Repo from the Github below 
 
 ## Usage
 
-Run “node index.js” in the terminal when you cd into the README-GENERATOR file
+Run “node index.js” in the terminal when you cd into the README-GENERATOR file 
 
 ## License Details
 
@@ -30,16 +30,16 @@ The MIT License is a free software license that was created at the Massachusetts
 
 ## Contributors
 
-Beep
 Nerp
+Beep
 Kip
 
 ## Tests
 
-N/A
+N/A 
 
 ## Questions
 
 Github: https://github.com/Joeychez23
-
+      
 Email: Joeychez123@gmail.com

@@ -334,6 +334,20 @@ async function values(userRes) {
         }
       );
     }
+    if (userRes.license === "N/A") {
+      fs.appendFile(
+        "./public/README.md",
+        "\n## License Details\n\nN/A\n",
+        function (err) {
+          if (err) {
+            console.log(err);
+            return;
+          }
+          console.log("Licence Details Added");
+          contributors();
+        }
+      );
+    }
   }
 
   function contributors() {
